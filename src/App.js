@@ -17,3 +17,4 @@ function App() {
 }
 
 export default App;
+// First start the json server then start the local server...
